@@ -261,6 +261,9 @@
 \newcommand{\MasterThesis}{
     \newcommand{\@ThesisType}{mgr}
 }
+\newcommand{\IntermediateEngineerThesis}{
+    \newcommand{\@ThesisType}{pr-inz}
+}
 \newcommand{\instytut}[1]{
     \newcommand{\@instytut}{#1}
 }

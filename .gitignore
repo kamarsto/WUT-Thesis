@@ -4,3 +4,4 @@ test/**/*.pdf
 .sconsign.dblite
 .vscode
 /*.pdf
+utils/
