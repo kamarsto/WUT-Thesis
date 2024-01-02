@@ -305,7 +305,7 @@
             Institute of \@instytut \\
         \fi
         \vspace{4em}
-        \includegraphics[width=\textwidth]{src/\@lang/title/\@ThesisType.pdf} \\
+        \includegraphics[scale = 1]{src/\@lang/title/\@ThesisType.pdf} \\
         \vspace{2em}
         \ifnum \pdf@strcmp{\@lang}{pl} = 0
             na~kierunku \@kierunek \\
