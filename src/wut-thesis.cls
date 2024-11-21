@@ -8,6 +8,7 @@
 
 \LoadClass[
     12pt,
+    withmarginpar,
     twoside
 ]{mwart}
 
